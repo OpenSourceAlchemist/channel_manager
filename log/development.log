@@ -1,0 +1,27 @@
+# Logfile created on Sat Dec 27 23:39:11 -0600 2008 by /
+I, [2008-12-27T23:39:12.140650 #4080]  INFO -- : SELECT * FROM "bans" LIMIT 1
+I, [2008-12-27T23:39:12.150748 #4080]  INFO -- : FATAL:  database "channel_manager" does not exist
+
+I, [2008-12-27T23:39:12.178947 #4080]  INFO -- : SELECT * FROM "channels" LIMIT 1
+I, [2008-12-27T23:39:12.189368 #4080]  INFO -- : FATAL:  database "channel_manager" does not exist
+
+I, [2008-12-27T23:56:40.927319 #4145]  INFO -- : SELECT * FROM "bans" LIMIT 1
+I, [2008-12-27T23:56:40.930755 #4145]  INFO -- : FATAL:  database "channel_manager" does not exist
+
+I, [2008-12-27T23:56:40.939864 #4145]  INFO -- : SELECT * FROM "channels" LIMIT 1
+I, [2008-12-27T23:56:40.943214 #4145]  INFO -- : FATAL:  database "channel_manager" does not exist
+
+I, [2008-12-27T23:57:10.610168 #4161]  INFO -- : SELECT * FROM "bans" LIMIT 1
+I, [2008-12-27T23:57:10.613624 #4161]  INFO -- : FATAL:  database "channel_manager" does not exist
+
+I, [2008-12-27T23:57:10.622399 #4161]  INFO -- : SELECT * FROM "channels" LIMIT 1
+I, [2008-12-27T23:57:10.625687 #4161]  INFO -- : FATAL:  database "channel_manager" does not exist
+
+I, [2008-12-27T23:57:28.273401 #4177]  INFO -- : SELECT * FROM "bans" LIMIT 1
+I, [2008-12-27T23:57:28.276780 #4177]  INFO -- : FATAL:  database "channel_manager" does not exist
+
+I, [2008-12-27T23:57:28.285503 #4177]  INFO -- : SELECT * FROM "channels" LIMIT 1
+I, [2008-12-27T23:57:28.288608 #4177]  INFO -- : FATAL:  database "channel_manager" does not exist
+
+I, [2008-12-27T23:57:33.307335 #4177]  INFO -- : SELECT * FROM "consoles" LIMIT 1
+I, [2008-12-27T23:57:38.318347 #4177]  INFO -- : Sequel::Error::PoolTimeoutError
