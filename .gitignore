@@ -1,2 +1,6 @@
 db/*.sqlite
 log/*.log
+.bash_history
+.screenrc-deathsyn
+.screenrc.code
+.viminfo
