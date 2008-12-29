@@ -1,34 +1,11 @@
 --- 
 Efnet: 
-  nick: Pastr
+  nick: Hayek
   leaves: 
-  - Pastr
+  - Manager
   rejoin: true
-  local_ip: 74.7.148.119
+  #local_ip: 74.7.148.119
   server_id: Efnet
   channels: 
-  - "#linuxgeneration"
-  - "#linuxhelp"
-  - "#regex"
-  - "#debian"
-  - "#ruby"
   - "#rubyists": flipper
   server: irc.easynews.com
-Freenode: 
-  nick: Pastr
-  password: ZrDaGNTX
-  leaves: 
-  - Pastr
-  rejoin: true
-  local_ip: 74.7.148.119
-  server_id: Freenode
-  channels: 
-  - "#queuetastic"
-  - "#lighttpd"
-  - "#lightshow"
-  - "#emash"
-  - "#pastr"
-  - "#rubyists"
-  - "#ramaze"
-  - "#postgresql"
-  server: irc.freenode.net

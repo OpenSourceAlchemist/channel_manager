@@ -1,5 +1,5 @@
 --- 
-Pastr: 
-  class: Pastr
+Manager: 
+  class: Manager
   respond_to_private_messages: true
   command_prefix: .
