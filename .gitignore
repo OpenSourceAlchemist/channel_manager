@@ -1,5 +1,7 @@
+*.tmp
 db/*.sqlite
 log/*.log
+manager_bot/log/*.log
 .bash_history
 .screenrc-deathsyn
 .screenrc.code
