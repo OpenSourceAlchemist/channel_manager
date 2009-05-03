@@ -2,9 +2,10 @@
 # controllers
 
 class Controller < Ramaze::Controller
-  layout '/page'
+  layout :default
   helper :xhtml
-  engine :Ezamar
+  engine :Etanni
 end
 
-acquire __DIR__/"*.rb"
+# Here go your requires for subclasses of Controller:
+require 'controller/main'
